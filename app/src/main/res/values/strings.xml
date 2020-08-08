@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">元倾</string>
+    <string name="loading" translatable="false">加载中...</string>
+</resources>
